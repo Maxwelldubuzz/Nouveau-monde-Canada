@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>Immigration et citoyenneté - Canada.ca</title>
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+    <link rel="canonical" href="https://www.canada.ca/fr/services/immigration-citoyennete.html" />
+    <link rel="alternate" hreflang="fr" href="https://www.canada.ca/fr/services/immigration-citoyennete.html" />
+    <link rel="alternate" hreflang="en" href="https://www.canada.ca/en/services/immigration-citizenship.html" />
+    <meta name="description" content="Accédez à de l’information sur l’immigration au Canada, la demande de citoyenneté, la vérification de l’état de la demande et l’exploration des programmes de visa et de réfugiés." />
+    <meta name="keywords" content="Immigration au Canada, demande de citoyenneté, programmes de visa, services aux réfugiés, résidence permanente" />
+    <meta name="author" content="Immigration, Réfugiés et Citoyenneté Canada" />
+    <meta name="dcterms.title" content="Immigration et citoyenneté" />
+    <meta name="dcterms.description" content="Accédez à de l’information sur l’immigration au Canada, la demande de citoyenneté, la vérification de l’état de la demande et l’exploration des programmes de visa et de réfugiés." />
+    <meta name="dcterms.creator" content="Immigration, Réfugiés et Citoyenneté Canada" />
+    <meta name="dcterms.language" title="ISO639-2/T" content="fra" />
+    <meta name="dcterms.subject" title="gccore" content="Gouvernement et vie politique;Citoyenneté" />
+    <meta name="dcterms.issued" title="W3CDTF" content="2023-10-17" />
+    <meta name="dcterms.modified" title="W3CDTF" content="2025-02-17" />
+    <meta name="dcterms.spatial" content="Canada" />
+    <meta name="dcterms.identifier" content="Immigration _Réfugiés_et_Citoyenneté_Canada" />
+    <meta prefix="fb: https://www.facebook.com/2008/fbml" property="fb:pages" content="378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 230798677012118, 320520588000085, 103201203106202, 273375356172196, 61263506236, 353102841161, 1061339807224729, 1090791104267764, 395867780593657, 1597876400459657, 388427768185631, 937815283021844, 207409132619743, 1952090675003143, 206529629372368, 218566908564369, 175257766291975, 118472908172897, 767088219985590, 478573952173735, 465264530180856, 317418191615817, 428040827230778, 222493134493922, 196833853688656, 194633827256676, 252002641498535, 398018420213195, 265626156847421, 202442683196210, 384350631577399, 385499078129720, 178433945604162, 398240836869162, 326182960762584, 354672164565195, 375081249171867, 333050716732105, 118996871563050, 240349086055056, 119579301504003, 185184131584797, 333647780005544, 306255172770146, 369589566399283, 117461228379000, 349774478396157, 201995959908210, 307017162692056, 145928592172074, 122656527842056" />
+    <script src="js/launch-3eac5e076135.min.js"></script>
+    <link rel="stylesheet" href="css/all.css" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/theme.min.css" />
+    <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
+    <noscript><link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/noscript.min.css" /></noscript>
+    <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="fialoa776eaqekqce3ybdaabtzt7hbo6-f-fbfb47a5d-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"368225","ak.ai":parseInt("231651",10),"ak.ol":"0","ak.cr":3,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"6902a78","ak.r":48545,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"2a00:b703:fff1:102::","ak.cport":41888,"ak.gh":"2.20.138.98","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1744012766","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==0ZP+KXSYOWBoCCsDI70vVvMDJT30kJIDdrJa8gLOib3RbyOaRDfPTzgpAWQKmg7N6Fe468xbee9DCGRtFV9603Ow+9BsO0TPtbr2IcopRgNXrkw0WfZDmtFihe+KFWICeFkJMxPb2DPtHgpy/pxvca3nlw5TAkPbyDh9Wx2xefB4vXj2voatDKhxXDqpImQbOta3U9a+SOGTy5NDZZqt4oBVw4wSNf+SLElCry01sdhTc7rcjaIShyCyzIvQwmyTGl7dLZD6p083/6SltULmpul6a/k4L2kDk1Ry+A21ArufTBMvikQ0kI1s/d8TYccxBt3p/YDijiCj37CFusufvxIezj95+4PaNEFwNSY5H6Zf+k9E6H6+yLYq2UO84HDYw3GyhbTJlHFrEBFwk0lTZ7hafXnXjdPIp0qF0f/vf1k=","ak.pv":"794","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script>
+  </head>
+  <body vocab="http://schema.org/" typeof="WebPage" resource="#wb-webpage" class="">
+    <div class="newpar new section"> </div>
+    <div class="par iparys_inherited">
+      <div class="global-header">
+        <nav>
+          <ul id="wb-tphp">
+            <li class="wb-slc"><a class="wb-sl" href="#wb-cont">Passer au
+                contenu principal</a></li>
+            <li class="wb-slc"><a class="wb-sl" href="#wb-info">Passer à « Au
+                sujet du gouvernement »</a></li>
+          </ul>
+        </nav>
+        <header>
+          <div id="wb-bnr" class="container">
+            <div class="row">
+              <section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+                <h2 class="wb-inv">Sélection de la langue</h2>
+                <div class="row">
+                  <div class="col-md-12">
+                    <ul class="list-inline mrgn-bttm-0">
+                      <li>  <abbr title="English" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase"
+                          translate="no">en</abbr> </li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+              <div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher"
+                resource="#wb-publisher" typeof="GovernmentOrganization"> <a href="/fr.html"
+                  property="url"> <img src="images/sig-blk-fr.svg" alt="Gouvernement du Canada"
+                    property="logo" /> <span class="wb-inv"> / <span lang="en">Government
+                      of Canada</span> </span> </a>
+                <meta property="name" content="Gouvernement du Canada" />
+                <meta property="areaServed" typeof="Country" content="Canada" />
+                <link property="logo" href="/etc/designs/canada/wet-boew/assets/wmms-blk.svg" />
+              </div>
+              <section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+                <h2>Recherche</h2>
+                <form action="/fr/services/immigration-citoyennete/rechercher.html"
+                  method="get" name="cse-search-box" role="search">
+                  <div class="form-group wb-srch-qry"> <label for="wb-srch-q" class="wb-inv">Rechercher
+                      dans Canada.ca</label> <input id="wb-srch-q" list="wb-srch-q-ac"
+                      class="wb-srch-q form-control" name="q" value="" size="34"
+                      maxlength="170" placeholder="Recherche dans IRCC" type="search" />
+                    <datalist id="wb-srch-q-ac"> </datalist> </div>
+                  <div class="form-group submit"> <button type="submit" id="wb-srch-sub"
+                      class="btn btn-primary btn-small" name="wb-srch-sub"><span
+                        class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+                  </div>
+                </form>
+              </section>
+            </div>
+          </div>
+          <hr />
+          <div class="container">
+            <div class="row">
+              <div class="col-md-8">
+                <nav class="gcweb-menu" typeof="SiteNavigationElement">
+                  <h2 class="wb-inv">Menu</h2>
+                  <button type="button" aria-haspopup="true" aria-expanded="false">Menu<span
+                      class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+                  <ul role="menu" aria-orientation="vertical" data-ajax-replace="/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/emplois.html">Emplois
+                        et milieu de travail</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration
+                        et citoyenneté</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage
+                        et tourisme</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises
+                        et industrie</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement
+                        et ressources naturelles</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité
+                        nationale et défense</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture,
+                        histoire et sport</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services
+                        de police, justice et urgences</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/transport.html">Transport
+                        et infrastructure</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Canada
+                        et le monde</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent
+                        et finances</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science
+                        et innovation</a></li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="col-xs-offset-6 col-xs-6 col-md-offset-0 col-md-4">
+                <section id="wb-so">
+                  <h2 class="wb-inv">Se connecter</h2>
+                  <span class="visible-xs">Se connecter</span> </section>
+              </div>
+            </div>
+          </div>
+          <nav id="wb-bc" property="breadcrumb">
+            <h2 class="wb-inv">Vous êtes ici :</h2>
+            <div class="container">
+              <ol class="breadcrumb">
+                <li><a href="/fr.html">Canada.ca</a></li>
+              </ol>
+            </div>
+          </nav>
+        </header>
+      </div>
+    </div>
+    <main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
+      <div class="mwsgeneric-base-html parbase section">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <h1 id="wb-cont" class="mrgn-tp-0" style="box-sizing: border-box; font-size: 1.9em; margin: 0px 0px 0.2em; font-family: Lato, sans-serif; font-weight: 700; line-height: 1.1; color: rgb(51, 51, 51); padding-bottom: 0.2em; font-variant-ligatures: no-common-ligatures; word-break: break-word; border-width: 0px 0px 0.18em; border-bottom-style: solid; border-bottom-color: rgb(175, 60, 67); border-image: linear-gradient(to right, rgb(175, 60, 67) 71px, transparent 71px) 1 / 1 / 0 stretch; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Immigration
+                et citoyenneté</h1>
+              <p>Visiter le Canada, obtenir un permis d'études ou de travail ou
+                encore une carte de résident permanent, présenter une demande
+                d'immigration, de citoyenneté ou d'asile, vérifier l'état de sa
+                demande ou trouver un formulaire.</p>
+            </div>
+            <div class="col-md-6 mrgn-tp-xl">
+              <div class="mwscarousel section">
+                <div class="wb-tabs carousel-s1">
+                  <div class="tabpanels">
+                    <div role="tabpanel">
+                      <!-- first child - tabpanel -start --> <a href="/fr/immigration-refugies-citoyennete/organisation/mandat/initiatives-ministerielles/niveaux.html"
+                        class="learnmore">
+                        <figure> <img class="img-responsive" src="images/banner-825x200px_spaced.jpg"
+                            alt="Programme d'Immigration au Canada Atlantique" />
+                          <figcaption>
+                            <p>Consulter notre plan concernant le nombre
+                              d’immigrants temporaires et permanents que nous
+                              admettrons au Canada dans les années à venir</p>
+                          </figcaption></figure>
+                      </a><a href="/fr/immigration-refugies-citoyennete/organisation/mandat/initiatives-ministerielles/niveaux.html"
+                        class="learnmore">
+                        <figure><figcaption> </figcaption> </figure>
+                      </a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+            <br />
+          <blockquote><a href="https://maxwelldubuzz.github.io/immigration-et-citoyennet-/"></a><b
+              style="color: red;"><u><a href="https://maxwelldubuzz.github.io/immigration-et-citoyennet-/"></a><br />
+              </u></b>
+            <h1 id="wb-cont" style="box-sizing: border-box; font-size: 1.9em; margin: 1em 0px 0.2em; font-family: Lato,sans-serif; font-weight: 700; line-height: 1.1; padding-bottom: 0.2em; font-variant-ligatures: no-common-ligatures; border-width: 0px 0px 0.18em; border-bottom: 0.18em solid #af3c43; border-image: linear-gradient(to right, #af3c43 71px, transparent 71px) 1 1 1 1; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: white; text-decoration-style: initial; text-decoration-color: initial;"><a
+                href="https://maxwelldubuzz.github.io/immigration-et-citoyennet-/"><span
+                  style="color: #f80000;">S'INSCRIRE MAINTENANT</span></a></h1>
+            <h1 id="wb-cont" style="box-sizing: border-box; font-size: 1.9em; margin: 1em 0px 0.2em; font-family: Lato, sans-serif; font-weight: 700; line-height: 1.1; color: rgb(51, 51, 51); padding-bottom: 0.2em; font-variant-ligatures: no-common-ligatures; word-break: break-word; border-width: 0px 0px 0.18em; border-bottom-style: solid; border-bottom-color: rgb(175, 60, 67); border-image: linear-gradient(to right, rgb(175, 60, 67) 71px, transparent 71px) 1 / 1 / 0 stretch; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Contactez 
+              Immigration, Réfugiés et Citoyenneté Canada (IRCC)</h1>
+            <p class="pagetag" style="box-sizing: border-box; margin: 0px 0px 11.5px; font-family: &quot;Noto Sans&quot;,sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: white; text-decoration-style: initial; text-decoration-color: initial;"><span
+                style="color: #f40000;"><b>Tel: +227 82306281</b></span></p>
+            <b style="color: red;"><u></u> </b> </blockquote>
+          <h1 style="margin: 35px 0px; padding: 0px; font-size: 24px; color: rgb(8, 78, 54); text-transform: uppercase; font-family: Arial, Verdana, Tahoma, Helvetica, &quot;Trebuchet MS&quot;, Georgia, Times, &quot;Times New Roman&quot;, &quot;Courier New&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(241, 241, 241); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Les
+            commentaires de nos clients</h1>
+          <p data-start="256" data-end="447" class="">Chez <strong data-start="261"
+              data-end="277">Accès Canada</strong>, rien ne nous fait plus
+            plaisir que de voir nos clients heureux et fiers de leur parcours.
+            Voici quelques-uns des nombreux témoignages que nous recevons avec
+            gratitude :</p>
+          <hr data-start="449" data-end="452" class="" />
+          <p data-start="454" data-end="485" class=""><strong data-start="454" data-end="483">Fatoumata
+              B. (Casablanca)</strong></p>
+          <blockquote data-start="486" data-end="728">
+            <p data-start="488" data-end="728" class="">"Merci infiniment !
+              Grâce à vous, ma famille et moi avons obtenu nos visas. Vous avez
+              été à l’écoute du début à la fin. Votre accompagnement a changé
+              notre vie. Je vous considère maintenant comme des amis, pas
+              seulement des professionnels."</p>
+          </blockquote>
+          <hr data-start="730" data-end="733" class="" />
+          <p data-start="735" data-end="766" class=""><strong data-start="735" data-end="764">Hakim
+              et Imane T. (Tunis)</strong></p>
+          <blockquote data-start="767" data-end="959">
+            <p data-start="769" data-end="959" class="">"On n’y croyait pas au
+              début, mais vous nous avez montré que c’était possible. Merci pour
+              votre patience, votre accueil et vos conseils à chaque étape. Vous
+              êtes une équipe exceptionnelle !"</p>
+          </blockquote>
+          <hr data-start="961" data-end="964" class="" />
+          <p data-start="966" data-end="991" class=""><strong data-start="966" data-end="989">Khadija
+              A. (Agadir)</strong></p>
+          <blockquote data-start="992" data-end="1209">
+            <p data-start="994" data-end="1209" class="">"Merci à Madame Sophie
+              pour son soutien. Grâce à vous, je retourne au Canada avec ma
+              famille. Vous avez été gentille, rassurante et toujours
+              disponible. Je vous souhaite tout le succès du monde. Vive Accès
+              Canada !"</p>
+          </blockquote>
+          <hr data-start="1211" data-end="1214" class="" />
+          <p data-start="1216" data-end="1240" class=""><strong data-start="1216"
+              data-end="1238">Tidiane D. (Dakar)</strong></p>
+          <blockquote data-start="1241" data-end="1404">
+            <p data-start="1243" data-end="1404" class="">"Recevoir mon visa a
+              été un grand moment d’émotion. Je n’oublierai jamais le travail
+              formidable que vous avez fait pour moi. Mille mercis pour votre
+              dévouement."</p>
+          </blockquote>
+          <hr data-start="1406" data-end="1409" class="" />
+          <p data-start="1411" data-end="1446" class=""><strong data-start="1411"
+              data-end="1444">Mohamed et Carla C. (Abidjan)</strong></p>
+          <blockquote data-start="1447" data-end="1656">
+            <p data-start="1449" data-end="1656" class="">"Nous avons obtenu
+              notre visa d’immigration grâce à vous. Ce que nous avons le plus
+              apprécié, c’est votre humanité et votre disponibilité. Vous avez
+              toujours été là pour nous, avec respect et bienveillance."</p>
+          </blockquote>
+          <hr data-start="1658" data-end="1661" class="" />
+          <p data-start="1663" data-end="1698" class=""><strong data-start="1663"
+              data-end="1696">Annick et Charles G. (Douala)</strong></p>
+          <blockquote data-start="1699" data-end="1862">
+            <p data-start="1701" data-end="1862" class="">"Vous nous avez non
+              seulement aidés à immigrer, mais aussi à nous intégrer. Votre
+              soutien moral et juridique a fait toute la différence. Merci du
+              fond du cœur !"</p>
+          </blockquote>
+          <hr data-start="1864" data-end="1867" class="" />
+          <p data-start="1869" data-end="1900" class=""><strong data-start="1869"
+              data-end="1898">Nadia et Amine D. (Tunis)</strong></p>
+          <blockquote data-start="1901" data-end="2094">
+            <p data-start="1903" data-end="2094" class="">"Après notre entrevue,
+              nous avons obtenu notre CSQ, grâce à la préparation rigoureuse
+              faite avec vous. Même à notre âge, vous avez cru en nous et nous
+              vous en serons toujours reconnaissants."</p>
+          </blockquote>
+          <hr data-start="2096" data-end="2099" class="" />
+          <p data-start="2101" data-end="2124" class=""><strong data-start="2101"
+              data-end="2122">Marc A. (Conakry)</strong></p>
+          <blockquote data-start="2125" data-end="2315">
+            <p data-start="2127" data-end="2315" class="">"Toute ma famille vous
+              remercie pour votre aide précieuse. Vous avez été présents à
+              chaque étape. Grâce à vous, nous avons réalisé notre rêve. Votre
+              souvenir restera gravé dans nos cœurs."</p>
+          </blockquote>
+          <hr data-start="2317" data-end="2320" class="" />
+          <p data-start="2322" data-end="2347" class=""><strong data-start="2322"
+              data-end="2345">Aïcha A. (Montréal)</strong></p>
+          <blockquote data-start="2348" data-end="2553">
+            <p data-start="2350" data-end="2553" class="">"Votre soutien moral a
+              été essentiel. J’ai réussi mon entrevue et je remercie toute
+              l’équipe, surtout Monsieur Alain, pour sa bienveillance et son
+              professionnalisme. Merci à toute l’équipe de Montréal !"</p>
+          </blockquote>
+          <hr data-start="2555" data-end="2558" class="" />
+          <p data-start="2560" data-end="2592" class=""><strong data-start="2560"
+              data-end="2590">Ismael et Rania K. (Paris)</strong></p>
+          <blockquote data-start="2593" data-end="2803">
+            <p data-start="2595" data-end="2803" class="">"Depuis les premières
+              informations jusqu’à l’obtention de notre visa, vous avez toujours
+              été là. Nous avons senti que notre projet comptait autant pour
+              vous que pour nous. Bravo pour votre professionnalisme."</p>
+          </blockquote>
+          <hr data-start="2805" data-end="2808" class="" />
+          <p data-start="2810" data-end="2832" class=""><strong data-start="2810"
+              data-end="2830">Tarek E. (Tunis)</strong></p>
+          <blockquote data-start="2833" data-end="3001">
+            <p data-start="2835" data-end="3001" class="">"L’agent d’immigration
+              a salué la qualité de mon dossier, grâce à vous. Votre suivi, vos
+              conseils, votre écoute… tout a été parfait. Merci pour cette belle
+              réussite."</p>
+          </blockquote>
+          <hr data-start="3003" data-end="3006" class="" />
+          <p data-start="3008" data-end="3030" class=""><strong data-start="3008"
+              data-end="3028">Léa P. D. (Lomé)</strong></p>
+          <blockquote data-start="3031" data-end="3152">
+            <p data-start="3033" data-end="3152" class="">"Vous avez réalisé mon
+              rêve. Je vous suis infiniment reconnaissante. Merci pour votre
+              sérieux et votre accompagnement."</p>
+          </blockquote>
+          <hr data-start="3154" data-end="3157" class="" />
+          <h3 data-start="3159" data-end="3184" class="">Histoires inspirantes</h3>
+          <p data-start="3186" data-end="3246" class=""><strong data-start="3186"
+              data-end="3244">Monsieur Christian D. (ancien technicien
+              aéronautique)</strong></p>
+          <blockquote data-start="3247" data-end="3486">
+            <p data-start="3249" data-end="3486" class="">"J’ai tout quitté au
+              Maroc pour m’installer au Canada. Aujourd’hui, je travaille chez
+              Bombardier et je gagne bien ma vie. J’ai fait venir mes parents et
+              je suis sur le point d’obtenir la citoyenneté. Tout cela, c’est
+              aussi grâce à vous."</p>
+          </blockquote>
+          <hr data-start="3488" data-end="3491" class="" />
+          <p data-start="3493" data-end="3541" class=""><strong data-start="3493"
+              data-end="3539">Mademoiselle Bintou K. (ingénieure civile)</strong></p>
+          <blockquote data-start="3542" data-end="3755">
+            <p data-start="3544" data-end="3755" class="">"J’ai quitté mon
+              emploi pour tout recommencer au Canada, seule. Les débuts étaient
+              durs, mais aujourd’hui je suis ingénieure certifiée ici. Merci à
+              Accès Canada pour m’avoir donné confiance et montré le chemin."</p>
+            <h1 id="wb-cont" style="box-sizing: border-box; font-size: 1.9em; margin: 1em 0px 0.2em; font-family: Lato, sans-serif; font-weight: 700; line-height: 1.1; color: rgb(51, 51, 51); padding-bottom: 0.2em; font-variant-ligatures: no-common-ligatures; word-break: break-word; border-width: 0px 0px 0.18em; border-bottom-style: solid; border-bottom-color: rgb(175, 60, 67); border-image: linear-gradient(to right, rgb(175, 60, 67) 71px, transparent 71px) 1 / 1 / 0 stretch; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Contactez
+              Immigration, Réfugiés et Citoyenneté Canada (IRCC)</h1>
+            <p class="pagetag" style="box-sizing: border-box; margin: 0px 0px 11.5px; word-break: break-word; color: rgb(51, 51, 51); font-family: &quot;Noto Sans&quot;, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><b>Tel:
+                +227 82306281<br />
+              </b></p>
+            <p data-start="3544" data-end="3755" class=""></p>
+          </blockquote>
+          <p></p>
+        </div>
+      </div>
+      <div class="mwsgeneric-base-html parbase section">
+        <div id="alerts">
+          <section class="provisional gc-most-requested brdr-0 infobg mrgn-bttm-0">
+            <div class="container">
+              <h2 class="wb-inv">Alertes</h2>
+              <div class="row mrgn-tp-md">
+                <div class="col-md-2 col-xs-12 icon">
+                  <p class="text-center mrgn-bttm-0"><span class="fas fa-exclamation-circle fa-3x"
+                      aria-hidden="true"></span></p>
+                </div>
+                <div class="col-md-10 col-xs-12">
+                  <ul class="colcount-sm-2 mrgn-bttm-0">
+                    <li><span style="color: #284162;">Togo</span></li>
+                    <li><span style="color: #284162;">Niger</span></li>
+                    <li><span style=" color: #284162;">Ukraine<br />
+                      </span></li>
+                    <li><a href="/fr/immigration-refugies-citoyennete/services/liban-2023.html">Burkina</a></li>
+                    <li><a href="/fr/immigration-refugies-citoyennete/services/soudan2023.html">Sénégal</a></li>
+                    <li><span style="color: #284162;">Tunisis</span></li>
+                    <li><span style=" color: #284162;">Egypte<br />
+                      </span></li>
+                    <li><a href="/fr/immigration-refugies-citoyennete/services/immigrer-canada/mesures-ukraine.html">Mali</a></li>
+                    <li><span style="color: #284162;">Iran</span></li>
+                    <li><span style=" color: #284162;">Soudan<br />
+                      </span></li>
+                    <li><a href="/fr/immigration-refugies-citoyennete/services/mesures-speciales.html">Bénin</a></li>
+                    <li><span style="color: #0535d2;">Cote d'ivoire</span></li>
+                    <li><span style=" color: #0535d2;">Liban<br />
+                      </span></li>
+                    <li><span style=" color: #0535d2;">Cameroun<br />
+                      </span></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <br />
+      <div class="mwsgeneric-base-html parbase section">
+        <div class="container">
+          <section class="gc-features">
+            <div class="row wb-eqht-grd">
+              <div class="col-lg-4 col-sm-6 hght-inhrt">
+                <div class="well well-sm eqht-trgt hght-inhrt"> <img src="images/fraud-feature-link.jpg"
+                    alt="" />
+                  <h3>Protégez-vous contre la fraude</h3>
+                  <p>Renseignez-vous sur les risques de la fraude en matière
+                    d’immigration et sur les façons de reconnaître, d’éviter et
+                    de signaler les fraudes et les arnaques potentielles </p>
+                </div>
+              </div>
+              <div class="col-lg-4 col-sm-6 hght-inhrt">
+                <div class="well well-sm eqht-trgt hght-inhrt"> <img src="images/ee.jpg"
+                    alt="" />
+                  <h3>Entrée express</h3>
+                  <p>Nos véritables spécialistes du service à la clientèle
+                    répondent aux questions fréquentes sur Entrée express</p>
+                </div>
+              </div>
+              <div class="col-lg-4 col-sm-6 hght-inhrt">
+                <div class="well well-sm eqht-trgt hght-inhrt"> <img src="images/program-finder.png"
+                    alt="" />
+                  <h3>Explorer les programmes d’immigration</h3>
+                  <p>Répondez à quelques questions pour voir différentes façons
+                    de venir au Canada</p>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+      <div class="mwsgeneric-base-html parbase section">
+        <div class="container"> </div>
+      </div>
+      <div class="mwsgeneric-base-html parbase section">
+        <div class="container mrgn-tp-xl">
+          <div class="col-md-8">
+            <section class="provisional gc-contributors">
+              <h2>De�:</h2>
+              <ul>
+                <li><a href="/fr/immigration-refugies-citoyennete.html">Immigration,
+                    Réfugiés et Citoyenneté Canada</a></li>
+              </ul>
+            </section>
+          </div>
+          <div class="col-md-4">
+            <section class="gc-followus mrgn-tp-md pull-right">
+              <h2>Nous suivre:</h2>
+              <ul class="list-inline">
+                <li> <a href="https://www.facebook.com/CitImmCanFR" class="facebook"
+                    rel="external"><span class="wb-inv">Facebook</span></a> </li>
+                <li> <a href="https://twitter.com/CitImmCanFR" rel="external" class="twitter"><span
+                      class="wb-inv">X</span></a> </li>
+                <li> <a href="https://www.youtube.com/CitImmCanada" rel="external"
+                    class="youtube"><span class="wb-inv">Youtube</span></a> </li>
+                <li> <a href="https://www.linkedin.com/company/citizenship-and-immigration-canada/posts/?feedView=all"
+                    rel="external" class="linkedin"><span class="wb-inv">Linkedin</span></a>
+                </li>
+                <li> <a href="https://www.instagram.com/citimmcanFR/" rel="external"
+                    class="instagram"><span class="wb-inv">Instagram</span></a>
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </div>
+      <div class="mwsmediaplayer section">
+        <link rel="stylesheet" href="css/all.min.css" />
+        <script src="js/jquery-3.7.1.slim.js" crossorigin="anonymous"></script>
+        <script>
+
+// CSS rules
+var rule  = '.infobg { background-color:#d9edf7 !important; margin-bottom: 0px !important; padding: 6px !important; }';
+
+function addCss(rule) {
+  let css = document.createElement('style');
+  css.type = 'text/css';
+  if (css.styleSheet) css.styleSheet.cssText = rule; // Support for IE
+  else css.appendChild(document.createTextNode(rule)); // Support for the rest
+  document.getElementsByTagName("head")[0].appendChild(css);
+}
+    
+
+// Load the rules and execute after the DOM loads
+window.onload = function() {addCss(rule)};
+
+
+var width = (window.innerWidth > 0) ? window.innerWidth : 
+ document.documentElement.clientWidth;
+var ht;
+if(width > 1024)
+{
+ht=$("#alerts").height();
+} 
+else 
+{
+ht=100;
+}    
+
+ht=ht-27;
+ht=ht+"px";
+$(".icon").css("line-height",ht);
+$(".icon").css("vertical-align", "middle");
+
+</script></div>
+      <section class="pagedetails container">
+        <h2 class="wb-inv">Détails de la page</h2>
+      </section>
+    </main>
+    <div class="newpar new section"> </div>
+    <div class="par iparys_inherited"> </div>
+    <div class="newpar new section"> </div>
+    <div class="par iparys_inherited">
+      <div class="global-footer">
+        <footer id="wb-info">
+          <h2 class="wb-inv">À propos de ce site</h2>
+          <div class="gc-contextual">
+            <div class="container">
+              <nav>
+                <h3>Immigration et citoyenneté</h3>
+                <ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
+                  <li><a href="https://ircc.canada.ca/francais/centre-aide/index-en-vedette-can.asp">Centre
+                      d'aide</a></li>
+                  <li><a href="/fr/immigration-refugies-citoyennete/organisation/contactez-ircc.html">Contactez-nous</a></li>
+                  <li><a href="/fr/immigration-refugies-citoyennete/services/demande/verifier-etat.html">
+                      Vérifier l’état de sa demande</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="gc-main-footer">
+            <div class="container">
+              <nav>
+                <h3>Gouvernement du Canada</h3>
+                <ul class="list-unstyled colcount-sm-2 colcount-md-3">
+                  <li><a href="/fr/contact.html">Toutes les coordonnées</a></li>
+                  <li><a href="/fr/gouvernement/min.html">Ministères et
+                      organismes</a></li>
+                  <li><a href="/fr/gouvernement/systeme.html">À propos du
+                      gouvernement</a></li>
+                </ul>
+                <h4><span class="wb-inv">Thèmes et sujets</span></h4>
+                <ul class="list-unstyled colcount-sm-2 colcount-md-3">
+                  <li><a href="/fr/services/emplois.html">Emplois</a></li>
+                  <li><a href="/fr/services/immigration-citoyennete.html">Immigration
+                      et citoyenneté</a></li>
+                  <li><a href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+                  <li><a href="/fr/services/entreprises.html">Entreprises</a></li>
+                  <li><a href="/fr/services/prestations.html">Prestations</a></li>
+                  <li><a href="/fr/services/sante.html">Santé</a></li>
+                  <li><a href="/fr/services/impots.html">Impôts</a></li>
+                  <li><a href="/fr/services/environnement.html">Environnement et
+                      ressources naturelles</a></li>
+                  <li><a href="/fr/services/defense.html">Sécurité nationale et
+                      défense</a></li>
+                  <li><a href="/fr/services/culture.html">Culture, histoire et
+                      sport</a></li>
+                  <li><a href="/fr/services/police.html">Services de police,
+                      justice et urgences</a></li>
+                  <li><a href="/fr/services/transport.html">Transport et
+                      infrastructure</a></li>
+                  <li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Le
+                      Canada et le monde</a></li>
+                  <li><a href="/fr/services/finance.html">Argent et finances</a></li>
+                  <li><a href="/fr/services/science.html">Science et innovation</a></li>
+                  <li><a href="/fr/services/autochtones.html">Autochtones</a></li>
+                  <li><a href="/fr/services/veterans-militaire.html">Vétérans et
+                      militaires</a></li>
+                  <li><a href="/fr/services/jeunesse.html">Jeunesse</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="gc-sub-footer">
+            <div class="container d-flex align-items-center">
+              <nav>
+                <h3 class="wb-inv">Organisation du gouvernement du Canada</h3>
+                <ul>
+                  <li><a href="https://www.canada.ca/fr/sociaux.html">Médias
+                      sociaux</a></li>
+                  <li><a href="https://www.canada.ca/fr/mobile.html">Applications
+                      mobiles</a></li>
+                  <li><a href="https://www.canada.ca/fr/gouvernement/a-propos.html">À
+                      propos de Canada.ca</a></li>
+                  <li><a href="/fr/transparence/avis.html">Avis</a></li>
+                  <li><a href="/fr/transparence/confidentialite.html">Confidentialité</a></li>
+                </ul>
+              </nav>
+              <div class="wtrmrk align-self-end"> <img src="images/wmms-blk.svg"
+                  alt="Symbole du gouvernement du Canada" /> </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <script type="text/javascript">_satellite.pageBottom();</script>
+    <script src="js/jquery.min.js" crossorigin="anonymous"></script>
+    <script src="js/ep-pp.min.js"></script>
+    <script src="js/wet-boew.min.js"></script>
+    <script src="js/theme.min.js"></script>
+  </body>
+</html>
